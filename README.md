@@ -12,14 +12,3 @@ Questions? Comments?:
 This lab walks you through implementing linear regression on a housing dataset from Sacramento.
 
 ---
-
-## Materials We Provide
-<!--- This section is a table of contents for the activity. The table structure breaks down repo resources into types, distinguishing between  notebooks and supporting materials. Note that the table below demonstrates the total possible range of materials; most lessons won't require all of the categories below. Also note that every item in the repo should get its own line and link, like the example shown for data. --->
-
-| Topic | Description | Link |
-| --- | --- | --- |
-| Lab |  Linear Regression Jupyter Notebook | [Link](./starter-code.ipynb)|
-| Data | Sacramento Real Estate Transactions | [Link](./datasets/sacramento_real_estate_transactions.csv)|
-
----
-
