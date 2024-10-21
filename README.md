@@ -10,5 +10,3 @@ Questions? Comments?:
 <!--- Unit and sequence information. This template is an instructor-facing description for a given activity or lab. --->
 
 This lab walks you through implementing linear regression on a housing dataset from Sacramento.
-
----
